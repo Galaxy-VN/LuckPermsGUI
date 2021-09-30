@@ -1,0 +1,25 @@
+Plugin-Depend-Download: '&8[&2LuckPerms&aGUI&8] &eDEPEND &8| &7Downloading depend plugin &f{0} &7...'
+Plugin-Depend-Installed: '&8[&2LuckPerms&aGUI&8] &eDEPEND &8| &7Successfullly downloaded &3{0} &7, restarting the server...'
+Plugin-Depend-Install-Failed: '&8[&2LuckPerms&aGUI&8] &eDEPEND &8| &7Failed to install depend plugin &c{0} &7...'
+Plugin-Dependency-Hooked: '&8[&2LuckPerms&aGUI&8] &6HOOK &8| &7Dependency &f{0} &7is hooked.'
+Plugin-Loaded:
+  - ''
+  - '&2LuckPerms&aGUI &7loading...'
+  - ''
+Plugin-Enabled: '&8[&2LuckPerms&aGUI&8] &2INFO &8| &7Loaded. LuckPermsGUI &av{0} &7has been enabled.'
+Plugin-Disabled: '&8[&2LuckPerms&aGUI&8] &2INFO &8| &7Disabled. Thanks for using :)'
+Plugin-Success: '&8[&2LuckPerms&aGUI&8] &7Successfully!'
+
+Player-Add-Permission: '&8[&2LuckPerms&aGUI&8] &7Please enter &apermission &7you want to add.'
+Player-Time-Permission: '&8[&2LuckPerms&aGUI&8] &7Please enter &etime &7you want to add.'
+Player-Edit-Prefix: '&8[&2LuckPerms&aGUI&8] &7Please enter &eprefix &7you want to add.'
+Player-Edit-Suffix: '&8[&2LuckPerms&aGUI&8] &7Please enter &esuffix &7you want to add.'
+
+Group-Create: '&8[&2LuckPerms&aGUI&8] &7Please enter &aname group &7you want to create.'
+Group-Add-Permission: '&8[&2LuckPerms&aGUI&8] &7Please enter &apermission &7you want to add.'
+Group-Time-Permission: '&8[&2LuckPerms&aGUI&8] &7Please enter &etime &7you want to add.'
+Group-Edit-Prefix: '&8[&2LuckPerms&aGUI&8] &7Please enter &eprefix &7you want to add.'
+Group-Edit-Suffix: '&8[&2LuckPerms&aGUI&8] &7Please enter &esuffix &7you want to add.'
+
+Never: 'Never'
+Global: 'Global'
